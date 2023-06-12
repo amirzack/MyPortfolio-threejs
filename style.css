@@ -400,7 +400,7 @@ svg {
 }
 
 .hero-main-title {
-  font-size: 64px;
+  font-size: 50px;
   color: var(--color-text);
 }
 
@@ -410,7 +410,7 @@ svg {
 }
 
 .hero-second-subheading {
-  font-size: 32px;
+  font-size: 26px;
   text-transform: uppercase;
   color: var(--color-text);
 }
